@@ -2,3 +2,5 @@
 pipex
 infile
 outfile
+libft
+*.dSYM
